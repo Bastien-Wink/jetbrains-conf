@@ -1,0 +1,137 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="JavaScriptLibraryMappings">
+        <includedPredefinedLibrary name="ECMAScript 6" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>false</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>false</other-services-enabled>
+      </component>
+      <component name="PhpDebugGeneral" xdebug_debug_port="9001" />
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Assignment issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Bitwise operation issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Code quality toolsJavaScript</id>
+              </State>
+              <State>
+                <id>Code style issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Control FlowPHP</id>
+              </State>
+              <State>
+                <id>Control flow issuesJavaScript</id>
+              </State>
+              <State>
+                <id>DOM issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Data flow issuesJavaScript</id>
+              </State>
+              <State>
+                <id>ECMAScript 6 migration aidsJavaScript</id>
+              </State>
+              <State>
+                <id>Error handlingJavaScript</id>
+              </State>
+              <State>
+                <id>Flow type checkerJavaScript</id>
+              </State>
+              <State>
+                <id>General</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>GeneralPHP</id>
+              </State>
+              <State>
+                <id>JSON</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>JavaScript function metricsJavaScript</id>
+              </State>
+              <State>
+                <id>JavaScript validity issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Naming conventionsJavaScript</id>
+              </State>
+              <State>
+                <id>Naming conventionsPHP</id>
+              </State>
+              <State>
+                <id>Node.jsJavaScript</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsJavaScript</id>
+              </State>
+              <State>
+                <id>Probable bugsJavaScript</id>
+              </State>
+              <State>
+                <id>Probable bugsPHP</id>
+              </State>
+              <State>
+                <id>RELAX NG</id>
+              </State>
+              <State>
+                <id>Type compatibilityPHP</id>
+              </State>
+              <State>
+                <id>TypeScript</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>AngularJS</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="template.copyright.formatting" />
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+      </component>
+      <component name="PublishConfigData" autoUpload="On explicit save action">
+        <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

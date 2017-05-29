@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All exept cache" />
+    <option name="defaultScopeName" value="All exept cache" />
+    <option name="SEARCH_SCOPE" value="All exept cache" />
+  </component>
+</application>

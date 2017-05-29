@@ -1,0 +1,17 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="15a4031b-dcb0-4826-8b0d-cd7a4013d770" name="dev" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="ee076696-fb6d-448a-a515-f776c95d2f4b" name="wink-dev.com" url="http://wink-dev.com">
+        <fileTransfer host="wink-dev.com" port="22" rootFolder="/vz/root/101/var/www/wink-dev.com/www/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

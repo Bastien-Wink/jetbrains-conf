@@ -1,0 +1,12 @@
+<templateSet group="PHP">
+  <template name="thrown" value="throw new \Exception('$END$');" description="throw new" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="tryc" value="try{&#10;    $END$&#10;}&#10;catch(\Exception $e){&#10;&#10;}" description="Try/catch" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
