@@ -7,6 +7,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="za" type="PLAIN_TEXT" />
       <mapping pattern="indexphp" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping ext="php7-fpm" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="PLAIN_TEXT" />
       <mapping pattern="*.yml.jinja" type="YAML" />
