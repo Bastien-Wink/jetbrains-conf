@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="lock" type="JSON" />
       <mapping pattern="env-prod" type="PLAIN_TEXT" />
+      <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="env-local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="za" type="PLAIN_TEXT" />
