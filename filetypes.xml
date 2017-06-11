@@ -3,16 +3,17 @@
     <extensionMap>
       <mapping ext="lock" type="JSON" />
       <mapping pattern="env-prod" type="PLAIN_TEXT" />
-      <mapping pattern="console" type="PLAIN_TEXT" />
-      <mapping pattern="env-local" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="za" type="PLAIN_TEXT" />
-      <mapping pattern="indexphp" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="env-local" type="PLAIN_TEXT" />
+      <mapping pattern="indexphp" type="PLAIN_TEXT" />
+      <mapping pattern="za" type="PLAIN_TEXT" />
+      <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="php7-fpm" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="PLAIN_TEXT" />
+      <mapping pattern="Serializer" type="Perl" />
       <mapping pattern="*.yml.jinja" type="YAML" />
     </extensionMap>
   </component>
