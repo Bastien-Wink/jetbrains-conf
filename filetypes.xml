@@ -13,6 +13,7 @@
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
       <mapping ext="php7-fpm" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="PLAIN_TEXT" />
       <mapping pattern="Serializer" type="Perl" />
       <mapping pattern="*.yml.jinja" type="YAML" />
