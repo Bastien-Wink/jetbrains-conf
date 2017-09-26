@@ -15,7 +15,6 @@
   <action id="GotoSymbol" />
   <action id="Inline" />
   <action id="JumpToLastChange">
-    <keyboard-shortcut first-keystroke="shift meta back_space" />
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="MoveLineDown">
